@@ -4,3 +4,5 @@ Debug
 SudokuAR/x64
 SudokuAR/numbers
 .vs
+opencv_world341.dll
+opencv_world341d.dll
