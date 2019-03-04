@@ -1,6 +1,12 @@
 # Sudoku AR
 **Authors:** [Pablo R. Palafox](https://pablorpalafox.github.io/), Hosein Mirzai, Yoon He Ha and Gonzalo Munilla
 
+<p align="center">
+  <img src="/assets/images/sudoku.gif" alt="sudokuAR">
+</p>
+
+Augmented Reality application based on OpenCV and OpenGL to solve Sudokus with a hand-held camera in real-time.
+
 
 # 1. License
 
