@@ -7,6 +7,7 @@
 
 Augmented Reality application based on OpenCV and OpenGL to solve Sudokus with a hand-held camera in real-time.
 
+Check out a live demo [HERE](https://youtu.be/zCkyr1kkrqw).
 
 ## Prerequisites
 We have tested the system in **Windows 10**, and implemented the solution in **Visual Studio 2017**.
